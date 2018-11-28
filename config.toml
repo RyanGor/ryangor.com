@@ -1,16 +1,16 @@
 # Site settings
 baseurl = "your_site_url_address"
 languageCode = "en"
-title = "site title"
+title = "Ryan Gor"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-87163808-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
 [params]
-	author = "site_author"
+	author = "Ryan Gor"
 	description = "Site Description"
-	bio = "author biography"
+	bio = "Sharing learnings"
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
@@ -19,7 +19,7 @@ hasCJKLanguage = false
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	disqusShortname = "ryangor"
 
 
 	enableSummary = true
