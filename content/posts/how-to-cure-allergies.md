@@ -80,9 +80,11 @@ To be specific, she “prescribed” the following supplements for 3 months.
 		* *Urtica dioica (15g)*
 * 400 mg of Magnesium bisglycinate before bed and 1 hour from other medications ([Noah's Natural Foods](https://www.noahsnaturalfoods.ca/canprev-magnesium-bis-glycinate-200-bonus-90-30-veg-caps/)) 
 
-After 2 weeks of starting:
+After 2 weeks of starting treatment add the following:
 
-* Probiotics - HMF Forte - 2 caps/day
+* 2 Capsules of HMF Forte Probiotics per day ([Herbie's Herbs](https://www.noahsnaturalfoods.ca/genestra-hmf-powder-60-g/))
+
+The reason for this is that we want to get the digestive system healthy again to make the absorption of the probiotics most impactful.
 
 ## Share your thoughts
 
