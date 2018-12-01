@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "www.ryangor.com"
+baseurl = "www.ryangor.com/"
 languageCode = "en"
 title = "Ryan Gor"
 theme = "hugo-theme-cactus-plus"
