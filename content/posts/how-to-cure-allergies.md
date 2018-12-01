@@ -41,6 +41,7 @@ That’s when I decided to see a Naturopath. It was the first time ever seeing a
 After getting a thorough understanding of my environment and stresses, she proceed to explain how different systems in the body work before laying out the diagnosis and treatment.
 
 Lesson on the Nervous System
+
 > “The fight-or-flight response, also known as the acute stress response, refers to a physiological reaction that occurs in the presence of something that is terrifying, either mentally or physically. The response is triggered by the release of hormones that prepare your body to either stay and deal with a threat or to run away to safety.” 
 [Source.] (https://www.verywellmind.com/what-is-the-fight-or-flight-response-2795194)
 
@@ -50,7 +51,7 @@ The fight-or-flight response, which is part of the sympathetic nervous system, i
 
 When your body is in a fight-or-flight state, it uses its energy to survive rather than regenerate. So in order to self-heal, we need to get our bodies into a more relaxed state activating the parasympathetic nervous system.
 
-One way to do this - *meditation!*
+>Side note, but one great way to get into this state is *meditation!*
 
 She mentioned that based on the theory of Yin and Yang from traditional Chinese medicine, my eczema was linked to [Kidney Yang deficiency](http://www.shen-nong.com/eng/principles/kidneyyinyang.html). She shared a list of foods that I should try and add to my diet and others that I should refrain from. The list can be found online [here](https://acupuncture.rhizome.net.nz/acupuncture/dietary-therapy/yang-deficiency/).
 
@@ -63,20 +64,21 @@ The naturopath proposed the following 4 step treatment plan:
 3. Increase nutrients
 4. Improve Immune System
 
-To be specific, she “prescribed” the following for 3 months:
+To be specific, she “prescribed” the following supplements for 3 months. 
 
-* 2 tbsps of whole flax seeds freshly ground
-* Omega 3s - 2g per day with food
-* Herbs: 1 tsp per cup of water 3 tsp per day
-	* The tea blend included the following:
-		* **Ocimum sanctum (15g)*
-		* Melissa officinalis (15g)*
+*Note: She put together the most cost-effective plan that's wallet-friendly.*
+
+* 2 tbsps of whole brown flax seeds freshly ground ([Herbie's Herbs](https://herbies-herbs.com/flax-p834?search=flax%20seed))
+* 2 grams of Omega 3 (*4:1 EPA to DHA ratio*) per day with food
+* 1 tsp of herbal tea blend per cup of boiling water, 3 cups per day
+	* The tea blend composed of:
+		* *Ocimum sanctum (15g)*
+		* *Melissa officinalis (15g)*
 		* *Avena sativa (10g)*
 		* *Galium aparine (10g)*
 		* *Arctium lappa (10g)*
 		* *Urtica dioica (15g)*
-* Magnesium bisglycinate 300 mg before bed 1 hr from meds
-* CanPrev 200mg cap 
+* 400 mg of Magnesium bisglycinate before bed and 1 hour from other medications ([Noah's Natural Foods](https://www.noahsnaturalfoods.ca/canprev-magnesium-bis-glycinate-200-bonus-90-30-veg-caps/)) 
 
 After 2 weeks of starting:
 
