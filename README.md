@@ -1,1 +1,1 @@
-# new-ryangor.com
+# ryangor.com
