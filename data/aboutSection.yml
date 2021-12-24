@@ -2,10 +2,9 @@
 enable: true
 topTitle: About
 title: >
-  ## About me
+  ## Who Am I
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I'm a lifelong learner that loves sharing lessons along the way.
 content: >
   ### I design and build ultimate things.
 
@@ -17,4 +16,4 @@ button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/ryan-photo.jpeg

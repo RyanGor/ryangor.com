@@ -1,11 +1,10 @@
 ---
 enable: true
-topTitle: Hello, I'm Ryan
+topTitle: Hi, I'm Ryan
 content: >
   # Product Leader, Coach, and Mentor
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  Feel free to reach out if you want to chat.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/ryan-gor-main-image.jpg
