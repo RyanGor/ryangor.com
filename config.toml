@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://ryangor.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Ryan Gor Product Leader & Coach"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -54,17 +54,17 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All Right Reserved Copyright © 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "UA-87163808-1"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+address = "Toronto, Canada 🇨🇦"
+email = "ryangor7@gmail.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = ""
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
