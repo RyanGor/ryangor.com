@@ -1,3 +1,5 @@
+
+
 baseURL = "http://ryangor.com/"
 languageCode = "en-us"
 paginate = 6
@@ -50,11 +52,13 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All Right Reserved Copyright © 2021"
-footerLogo = "images/contact/widget-logo.png"
+copyright = "© Copyright 2021 Ryan Gor"
+footerLogo = "images/contact/ryan-logo-white.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "UA-87163808-1"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/ryan-18.png"
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
 
 [params.address]
 address = "Toronto, Canada 🇨🇦"
@@ -85,3 +89,5 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+
+

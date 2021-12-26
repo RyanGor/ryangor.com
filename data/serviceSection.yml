@@ -2,19 +2,18 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## How I Can Help You
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Coaching and mentorship have been a huge part of how I've gotten to where I am today. Hopefully I can pay it forward and share lessons I've learned along the way. 
 service:
   - content: >
-      #### UI/UX Design 
+      #### Coaching & Mentorship
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Public Speaking 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
