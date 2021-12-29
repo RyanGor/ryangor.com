@@ -4,7 +4,7 @@ baseURL = "http://ryangor.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Ryan Gor Product Leader & Coach"
+title = "Ryan Gor Product Leader, Coach & Mentor"
 # Main Menu
 [[menu.main]]
 name = "Home"

@@ -1,8 +1,8 @@
 ---
-title: UX Case Study for Agriculture App
+title: UOSSM - Syria Solar
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-4.png
-service: UX Design
+thumbnail: images/portfolio/syria-solar-uossm.png
+service: Fundraising Platform
 client: Jane Doe
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam

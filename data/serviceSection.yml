@@ -9,26 +9,22 @@ service:
   - content: >
       #### Coaching & Mentorship
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      1-on-1 sessions to help you reach your goals.
     image: images/service/ui-ux.svg
   - content: >
       #### Public Speaking 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Sharing lessons I've learned to inspire others.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Product Strategy & Leadership
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Prioritization, roadmap creation, and go-to-market strategy.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Product Strategy
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Prioritization, roadmap creation, and go-to-market strategy.
     image: images/service/branding.svg
   - content: >
       #### UI/UX Design

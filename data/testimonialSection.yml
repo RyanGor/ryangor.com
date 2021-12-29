@@ -2,18 +2,14 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People Say About Me?
+  ## What Some People Have to Say
 
 testimonial:
-  - name: Denis P.
-    comment: Ryan has helped me tremendously.
+  - name: Avi D.
+    comment: Ryan has a rare combination of quantitative skills and high EQ. He lead the marketing and digital strategy for the Syria Solar project with UOSSM and was tactfully able to suggest the highest yielding options for marketing the project. He is able to simplify incredibly complex quantitative measures into digestible ideas. I have observed him to be a truly gifted communicator and a powerful leader.
     time: 
     star: 
-  - name: Monish B.
-    comment: He has taught me everything I know. 
-    time: 
-    star: 
-  - name: John T.
-    comment: He helped me land the job of my dreams.
+  - name: Mohammad K.
+    comment: I've worked very closely with Ryan for over a year. Ryan is very dynamic and easy to work with person. He has a rare combination of engineering and amazing people skills, which makes him a great asset for any technology organization. He has a positive and 'can do' attitude. Ryan has a very good negotiation skill, he has been into many difficult meeting and came out with 'win-win' solutions.
     time: 
     star: 
