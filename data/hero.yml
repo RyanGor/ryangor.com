@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hi, I'm Ryan 👋
+content: >
+  # Product Leader, Coach, and Mentor
+
+  Feel free to reach out if you want to chat.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/ryan-gor-main-image.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: 

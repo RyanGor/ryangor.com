@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## What Some People Have to Say
+
+testimonial:
+  - name: Avi D.
+    comment: Ryan has a rare combination of quantitative skills and high EQ. He is able to simplify incredibly complex quantitative measures into digestible ideas. I have observed him to be a truly gifted communicator and a powerful leader.
+    time: 
+    star: 
+  - name: Mohammad K.
+    comment: I've worked very closely with Ryan for over a year. Ryan is very dynamic and easy to work with person. He has a rare combination of engineering and amazing people skills, which makes him a great asset for any technology organization. He has a positive and 'can do' attitude.
+    time: 
+    star: 

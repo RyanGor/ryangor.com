@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## A Little Background
+
+  I help high-growth companies scale their product teams and build out long-term strategies. I love learning new things and teaching others about what I've learned along the way. 
+
+image: images/about/ryan-photo.jpeg
+
+skill:
+  - title: HTML
+    percent: 69
+  - title: CSS
+    percent: 60
+  - title: Javascript
+    percent: 85

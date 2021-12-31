@@ -1,77 +1,83 @@
-# Site settings
-baseurl = "https://ryangor.com/"
-languageCode = "en"
-title = "Ryan Gor"
-theme = "hugo-theme-cactus-plus"
-googleAnalytics = "UA-87163808-1"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+
+
+baseURL = "http://ryangor.com/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "Ryan Gor Product Leader, Coach & Mentor"
+# Main Menu
+[[disable.menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[disable.menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[disable.menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[disable.menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[disable.menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+[[disable.menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
 
 [params]
-	author = "Ryan Gor"
-	description = "Ryan Gor's Website"
-	bio = "Sharing lessons from my experiences"
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "© Copyright 2021 Ryan Gor"
+footerLogo = "images/contact/ryan-logo-white.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "UA-87163808-1"
+logo = "images/site-navigation/ryan-18.png"
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
 
-	twitter = "your_twitter_id"
-	facebook = "your_facebook_id"
+[params.address]
+address = "Toronto, Canada 🇨🇦"
+email = "ryangor7@gmail.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = ""
 
-	enableRSS = false
-	enableToc = false
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
 
-	enableDisqus = true
-	disqusShortname = "ryangor"
+# Social icons
 
-
-	enableSummary = true
-	# Set the value to true if use description in post front matter replace content summary
-	useDescriptionReplaceSummary = true
-
-
-	enableGoogleAnalytics = true
-	enableBaiduAnalytics = false
-	# Set the value to your baidu analysis code if you want to use baidu analytics
-	baiduAnalytics = 'your_baidu_analysis_code'
-
-	enableTwitterCard = false
-	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = ""
-
-	# Add custom assets with their paths relative to the static folder
-	customCSS = []
-	customJS  = []
-
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
-
-	# Navigation links
-	home = ""
-	about = ""
-	archive = ""
-	subscribe = ""
-
-	olderPosts = ""
-	newerPosts = ""
-	copyright = ""
-
-	# show latest posts in single page
-	showLatestPosts = false
-	readMore = ""
-
-	# Share
-	enableShare = false
-	tweet = ""
-	share = ""
-
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
-
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/ryangor"
+weight = 2
 
 
-# Add additional social link entries underneath
-[social]
-	linkedin-square = "https://www.linkedin.com/in/ryangor/"

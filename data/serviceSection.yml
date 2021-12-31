@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## How I Can Help You
+
+  I'm always trying to learn new things. Hopefully I can pay it forward and share lessons I've learned along the way. 
+service:
+  - content: >
+      #### Product Strategy & Leadership
+
+      Technical advising and long-term product strategy.
+    image: images/service/branding.svg
+  - content: >
+      #### Coaching & Mentorship
+
+      1-on-1 sessions to help you reach your goals.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Public Speaking Engagements
+
+      Sharing lessons I've learned to inspire others.
+    image: images/service/web.svg
