@@ -1,6 +1,6 @@
 
 
-baseURL = "http://ryangor.com/"
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
