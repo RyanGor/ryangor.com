@@ -1,7 +1,12 @@
+// .contact {
+//     background: #f1f6f9;
+// }
+
 .footer {
     background: #1b2031;
     position: relative;
-    margin-top: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     &__background_shape {
         position: absolute;
         width: 100%;
@@ -11,7 +16,8 @@
             height: 100%;
             width: 100%;
             path {
-                fill: $white;
+                // fill: #f1f6f9; 
+                fill: white;
             }
         }
         @include mobile {

@@ -6,30 +6,31 @@ paginate = 6
 theme = "portio"
 title = "Ryan Gor Product Leader, Coach & Mentor"
 # Main Menu
-[[menu.main]]
+[[disable.menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
-[[menu.main]]
+[[disable.menu.main]]
 name = "About"
 url = "#about"
 weight = 2
-[[menu.main]]
+[[disable.menu.main]]
 name = "Service"
 url = "#service"
 weight = 3
-[[menu.main]]
+[[disable.menu.main]]
 name = "Work"
 url = "#portfolio"
 weight = 4
-[[menu.main]]
+[[disable.menu.main]]
 name = "Blog"
 url = "#blog"
 weight = 6
-[[menu.main]]
+[[disable.menu.main]]
 name = "Contact"
-url = "#contact"
+url = "/contact"
 weight = 7
+
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -73,21 +74,10 @@ longitude = "90.3746808"
 pinImage = "images/pin.png"
 
 # Social icons
-[[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
+
 [[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/ryangor"
 weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
 
 

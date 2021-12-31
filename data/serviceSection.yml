@@ -1,40 +1,23 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: 
 title: >
   ## How I Can Help You
 
-  Coaching and mentorship have been a huge part of how I've gotten to where I am today. Hopefully I can pay it forward and share lessons I've learned along the way. 
+  I'm always trying to learn new things. Hopefully I can pay it forward and share lessons I've learned along the way. 
 service:
+  - content: >
+      #### Product Strategy & Leadership
+
+      Technical advising and long-term product strategy.
+    image: images/service/branding.svg
   - content: >
       #### Coaching & Mentorship
 
       1-on-1 sessions to help you reach your goals.
     image: images/service/ui-ux.svg
   - content: >
-      #### Public Speaking 
+      #### Public Speaking Engagements
 
       Sharing lessons I've learned to inspire others.
-    image: images/service/web.svg
-  - content: >
-      #### Product Strategy & Leadership
-
-      Prioritization, roadmap creation, and go-to-market strategy.
-    image: images/service/creative.svg
-  - content: >
-      #### Product Strategy
-
-      Prioritization, roadmap creation, and go-to-market strategy.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
