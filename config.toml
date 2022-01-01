@@ -1,10 +1,10 @@
 
 
-baseURL = "http://ryangor.com/"
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Ryan Gor Product Leader, Coach & Mentor"
+title = "Ryan Gor | Product Leader, Coach & Mentor"
 # Main Menu
 [[disable.menu.main]]
 name = "Home"
