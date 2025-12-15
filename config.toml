@@ -2,31 +2,32 @@
 
 baseURL = "/"
 languageCode = "en-us"
-paginate = 6
+[pagination]
+  pagerSize = 6
 theme = "portio"
 title = "Ryan Gor | Product Leader, Coach & Mentor"
 # Main Menu
-[[disable.menu.main]]
+[[menu.main]]
 name = "Home"
 url = "#home"
 weight = 1
-[[disable.menu.main]]
+[[menu.main]]
 name = "About"
 url = "#about"
 weight = 2
-[[disable.menu.main]]
+[[menu.main]]
 name = "Service"
 url = "#service"
 weight = 3
-[[disable.menu.main]]
+[[menu.main]]
 name = "Work"
 url = "#portfolio"
 weight = 4
-[[disable.menu.main]]
+[[menu.main]]
 name = "Blog"
 url = "#blog"
 weight = 6
-[[disable.menu.main]]
+[[menu.main]]
 name = "Contact"
 url = "/contact"
 weight = 7
